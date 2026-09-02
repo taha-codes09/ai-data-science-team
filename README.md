@@ -1,5 +1,5 @@
-<div align="center">
-  <a href="https://github.com/m-shamim09/ai-data-science-team">
+﻿<div align="center">
+  <a href="https://github.com/taha-codes09/ai-data-science-team">
     <picture>
       <img src="./img/ai_data_science_logo.png" alt="AI Data Science Team" width="360">
     </picture>
@@ -10,9 +10,9 @@
 </div>
 <div align="center">
   <a href="https://pypi.python.org/pypi/ai-data-science-team"><img src="https://img.shields.io/pypi/v/ai-data-science-team.svg?style=for-the-badge" alt="PyPI"></a>
-  <a href="https://github.com/m-shamim09/ai-data-science-team"><img src="https://img.shields.io/pypi/pyversions/ai-data-science-team.svg?style=for-the-badge" alt="versions"></a>
-  <a href="https://github.com/m-shamim09/ai-data-science-team"><img src="https://img.shields.io/github/license/m-shamim09/ai-data-science-team.svg?style=for-the-badge" alt="license"></a>
-  <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/m-shamim09/ai-data-science-team?style=for-the-badge">
+  <a href="https://github.com/taha-codes09/ai-data-science-team"><img src="https://img.shields.io/pypi/pyversions/ai-data-science-team.svg?style=for-the-badge" alt="versions"></a>
+  <a href="https://github.com/taha-codes09/ai-data-science-team"><img src="https://img.shields.io/github/license/taha-codes09/ai-data-science-team.svg?style=for-the-badge" alt="license"></a>
+  <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/taha-codes09/ai-data-science-team?style=for-the-badge">
 </div>
 
 # AI Data Science Team
@@ -21,7 +21,7 @@ AI Data Science Team is a Python library of specialized agents for common data s
 
 **Status:** Beta. Breaking changes may occur until 0.1.0.
 
-[**Please ⭐ us on GitHub (it takes 2 seconds and means a lot).**](https://github.com/m-shamim09/ai-data-science-team)
+[**Please ⭐ us on GitHub (it takes 2 seconds and means a lot).**](https://github.com/taha-codes09/ai-data-science-team)
 
 ## AI Pipeline Studio (Flagship App)
 
